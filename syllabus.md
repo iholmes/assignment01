@@ -27,4 +27,4 @@ Course structure.  Microbial Informatics will consist of two hours of lecture pe
 
 *Additional materials. Supplemental YouTube videos and online tutorials will be assigned.
  
-*Software. You will need to install R and Rstudio
+*Software. You will need to install R [link] (http://cran.r-project.org/) and Rstudio
